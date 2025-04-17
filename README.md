@@ -1,7 +1,10 @@
 # awesome-diffusion-noise
 A collection of noise-aware algorithms in diffusion models.
 
-## Gassian (white) noise for image diffusion
+Please find more details on [this page](https://diffusion-noise.mpi-inf.mpg.de/), including our Eurographics 2025 tutorial slides.
+
+
+## Gassian (white) noise for diffusion models
 - **Denoising diffusion probabilistic models (NeurIPS 2020)** [[code](https://github.com/hojonathanho/diffusion)] [[webpage](https://hojonathanho.github.io/diffusion/)]
 - **Improved denoising diffusion probabilistic models (ICML 2021)** [[code](https://github.com/openai/improved-diffusion)] [[webpage](https://proceedings.mlr.press/v139/nichol21a.html)]
 
