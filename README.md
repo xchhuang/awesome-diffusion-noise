@@ -25,12 +25,16 @@ Please find more details on [this page](https://diffusion-noise.mpi-inf.mpg.de/)
 - **Edge-preserving noise for diffusion models (ICLR 2025 DeLTa workshop)** [[code](https://github.com/Jentuuh/edge-preserving-diffusion/)] [[webpage](https://edge-preserving-diffusion.mpi-inf.mpg.de/)]
 - **Factorized Diffusion: Perceptual Illusions by Noise Decomposition (ECCV 2024)** [[code](https://github.com/dangeng/visual_anagrams)] [[webpage](https://dangeng.github.io/factorized_diffusion/)]
 - **An Edit Friendly DDPM Noise Space: Inversion and Manipulations (CVPR 2024)** [[code](https://github.com/inbarhub/DDPM_inversion)] [[webpage](https://inbarhub.github.io/DDPM_inversion/)]
+- **Multi-Resolution Noise for Diffusion Model Training** [[blogpost](https://wandb.ai/johnowhitaker/multires_noise/reports/Multi-Resolution-Noise-for-Diffusion-Model-Training--VmlldzozNjYyOTU2)]
+- **A Traveler’s Guide to the Latent Space (section regarding Perlin noise init)** [[blogpost](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)]
+
 
 
 ## Optimized noise for image diffusion
 
 - **Inference-Time Alignment of Diffusion Models with Direct Noise Optimization (ICML 2024 SPIGM workshop)** [[code](https://github.com/TZW1998/Direct-Noise-Optimization)] [[webpage](https://openreview.net/forum?id=Dqpa8rbL39)]
 - **ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization (NeurIPS 2024)** [[code](https://github.com/ExplainableML/ReNO)]
+- **InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization (CVPR 2024)** [[code](https://github.com/xiefan-guo/initno)] [[webpage](https://xiefan-guo.github.io/initno/)]
 - **A Noise is Worth Diffusion Guidance (2024)** [[code](https://github.com/cvlab-kaist/NoiseRefine)] [[webpage](https://cvlab-kaist.github.io/NoiseRefine/)]
 - **Golden Noise for Diffusion Models: A Learning Framework (2024)** [[code](https://github.com/xie-lab-ml/Golden-Noise-for-Diffusion-Models)]
 
