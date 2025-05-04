@@ -69,6 +69,7 @@ Please find more details on our Eurographics 2025 tutorial (https://diffusion-no
 ## Gaussian (white) noise for video diffusion
 
 - **Video Diffusion Models (NeurIPS 2022)** [[unofficial code](https://github.com/lucidrains/video-diffusion-pytorch)] [[webpage](https://video-diffusion.github.io/)]
+
 - **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models (CVPR 2023)** [[webpage](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
 
 
