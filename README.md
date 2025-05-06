@@ -21,17 +21,25 @@ Please find more details on our Eurographics 2025 tutorial (https://diffusion-no
 
 - **Multi-Resolution Noise for Diffusion Model Training** [[blogpost](https://wandb.ai/johnowhitaker/multires_noise/reports/Multi-Resolution-Noise-for-Diffusion-Model-Training--VmlldzozNjYyOTU2)]
 
+- **Common Diffusion Noise Schedules and Sample Steps are Flawed (WACV 2024)** [[unofficial code](https://github.com/Max-We/sf-zero-signal-to-noise?tab=readme-ov-file)]
+
+- **Diffusion with Offset Noise (2023)** [[blogpost](https://www.crosslabs.org/blog/diffusion-with-offset-noise
+)]
+
+- **Relay Diffusion: Unifying diffusion process across resolutions for image synthesis (ICLR 2024)** [[code](https://github.com/THUDM/RelayDiffusion)]
+
+- **A Noise is Worth Diffusion Guidance (2024)** [[code](https://github.com/cvlab-kaist/NoiseRefine)] [[webpage](https://cvlab-kaist.github.io/NoiseRefine/)]
+
+- **Golden Noise for Diffusion Models: A Learning Framework (2024)** [[code](https://github.com/xie-lab-ml/Golden-Noise-for-Diffusion-Models)]
+
 - **Inference-Time Alignment of Diffusion Models with Direct Noise Optimization (ICML 2024 SPIGM workshop)** [[code](https://github.com/TZW1998/Direct-Noise-Optimization)] [[webpage](https://openreview.net/forum?id=Dqpa8rbL39)]
 
 - **ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization (NeurIPS 2024)** [[code](https://github.com/ExplainableML/ReNO)]
 
 - **InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization (CVPR 2024)** [[code](https://github.com/xiefan-guo/initno)] [[webpage](https://xiefan-guo.github.io/initno/)]
 
-- **A Noise is Worth Diffusion Guidance (2024)** [[code](https://github.com/cvlab-kaist/NoiseRefine)] [[webpage](https://cvlab-kaist.github.io/NoiseRefine/)]
 
-- **Golden Noise for Diffusion Models: A Learning Framework (2024)** [[code](https://github.com/xie-lab-ml/Golden-Noise-for-Diffusion-Models)]
 
-- **Relay Diffusion: Unifying diffusion process across resolutions for image synthesis (ICLR 2024)** [[code](https://github.com/THUDM/RelayDiffusion)]
 
 
 
@@ -47,11 +55,6 @@ Please find more details on our Eurographics 2025 tutorial (https://diffusion-no
 - **An Edit Friendly DDPM Noise Space: Inversion and Manipulations (CVPR 2024)** [[code](https://github.com/inbarhub/DDPM_inversion)] [[webpage](https://inbarhub.github.io/DDPM_inversion/)]
 
 - **A Traveler’s Guide to the Latent Space (section regarding Perlin noise init)** [[blogpost](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)]
-
-- **Common Diffusion Noise Schedules and Sample Steps are Flawed (WACV 2024)** [[unofficial code](https://github.com/Max-We/sf-zero-signal-to-noise?tab=readme-ov-file)]
-
-- **Diffusion with Offset Noise (2023)** [[blogpost](https://www.crosslabs.org/blog/diffusion-with-offset-noise
-)]
 
 - **NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging (ICLR 2024)** [[code](https://github.com/univ-esuty/noisecollage)]
 
