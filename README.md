@@ -23,6 +23,9 @@ Please find more details on our Eurographics 2025 tutorial / SIGGRAPH 2025 Cours
 
 - **Common Diffusion Noise Schedules and Sample Steps are Flawed (WACV 2024)** [[unofficial code](https://github.com/Max-We/sf-zero-signal-to-noise?tab=readme-ov-file)]
 
+- **On the Importance of Noise Scheduling for Diffusion Models (Arxiv 2023)** [[paper](https://arxiv.org/pdf/2301.10972)]
+
+
 - **Diffusion with Offset Noise (2023)** [[blogpost](https://www.crosslabs.org/blog/diffusion-with-offset-noise
 )]
 
@@ -87,6 +90,9 @@ Please find more details on our Eurographics 2025 tutorial / SIGGRAPH 2025 Cours
 - **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators (ICCV 2023)** [[code](https://github.com/Picsart-AI-Research/Text2Video-Zero)] [[webpage](https://text2video-zero.github.io/)]
 
 - **Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise (CVPR 2025)** [[code](https://github.com/Eyeline-Research/Go-with-the-Flow)] [[webpage](https://eyeline-research.github.io/Go-with-the-Flow/)]
+
+- **EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise (Arxiv 2025)** [[webpage](https://research.nvidia.com/labs/genair/equivdm/)]
+
 
 
 
