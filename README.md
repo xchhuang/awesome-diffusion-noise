@@ -1,7 +1,7 @@
 # awesome-diffusion-noise
 A collection of noise designs for diffusion models.
 
-Please find more details on our Eurographics 2025 tutorial (https://diffusion-noise.mpi-inf.mpg.de/).
+Please find more details on our Eurographics 2025 tutorial / SIGGRAPH 2025 Course: https://diffusion-noise.mpi-inf.mpg.de/ .
 
 
 
